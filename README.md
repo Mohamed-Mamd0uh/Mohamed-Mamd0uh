@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Mamdouh  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Mobile+Applications+Expert;Clean+Architecture+Enthusiast;Building+Scalable+Apps🚀&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Mobile+Applications+Expert;Clean+Architecture+Enthusiast;Firebase+Integration+Specialist;Building+Scalable+Apps🚀&center=true&width=650&height=50">
 </p>
 
 ---
@@ -9,9 +9,10 @@
 ## 🚀 About Me  
 
 📱 Flutter Developer متخصص في بناء تطبيقات موبايل احترافية وقابلة للتوسع  
-🏗 مهتم بتطبيق Clean Architecture و MVVM  
-⚡ بخبرة قوية في إدارة الحالة باستخدام BloC, Cubit, Provider, GetX  
-🔥 أركز على تقديم تطبيقات متكاملة بأداء عالي وتجربة مستخدم مميزة  
+🏗 أطبق Clean Architecture و MVVM في المشاريع الإنتاجية  
+🔥 خبرة قوية في إدارة الحالة باستخدام BloC, Cubit, Provider, GetX  
+☁️ خبرة متقدمة في تكامل Firebase (Auth, Firestore, Storage, Notifications)  
+⚡ أهتم بالأداء، تنظيم الكود، وتجربة المستخدم  
 
 ---
 
@@ -32,12 +33,18 @@
 ### 🏗 Architecture  
 `Clean Architecture` • `MVVM`
 
-### 🔧 Tools  
+### ☁️ Backend & Database  
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
+![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-000?style=for-the-badge&logo=firebase)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-000?style=for-the-badge&logo=firebase)
+![Firebase Storage](https://img.shields.io/badge/Firebase_Storage-000?style=for-the-badge&logo=firebase)
+![FCM](https://img.shields.io/badge/Firebase_Cloud_Messaging-000?style=for-the-badge&logo=firebase)
+![Sqflite](https://img.shields.io/badge/Sqflite-000?style=for-the-badge)
+
+### 🔧 Tools  
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
-![Sqflite](https://img.shields.io/badge/Sqflite-000?style=for-the-badge)
 
 ---
 
@@ -60,20 +67,20 @@
 
 ## 🎯 Current Focus  
 
-- 📱 Building scalable Flutter applications  
-- 🏗 Applying Clean Architecture in real-world apps  
-- 🔥 Writing clean, maintainable, production-ready code  
-- 🚀 Improving performance & app optimization  
+- 📱 Building scalable & production-ready Flutter applications  
+- ☁️ Advanced Firebase integration  
+- 🏗 Implementing Clean Architecture in large-scale apps  
+- 🚀 Performance optimization & best practices  
 
 ---
 
 ## 🌍 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](YOUR_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
 
 ---
 
 ## 💡 Philosophy  
 
-> “Great mobile apps are built with clean architecture, scalable structure, and attention to detail.”
+> “Scalable mobile apps are built with clean architecture, strong state management, and solid backend integration.”

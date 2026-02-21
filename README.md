@@ -8,12 +8,15 @@
 
 ## 🚀 About Me  
 
-Flutter Developer focused on building **scalable, maintainable, and production-ready** mobile applications.  
-Experienced in implementing **Clean Architecture** and **MVVM** for structured and testable codebases.  
-Strong in state management using **BLoC, Cubit, Provider, and GetX**.  
-Skilled in **Firebase integration** including Authentication, Firestore, Storage, and Cloud Messaging.  
-Passionate about **performance optimization, clean code, and high-quality UX**.
+- 📱 Flutter Developer focused on building **scalable, maintainable, and production-ready** mobile applications.  
 
+- 🏗️ Experienced in implementing **Clean Architecture** and **MVVM** for structured and testable codebases.  
+
+- 🧠 Strong in state management using **BLoC, Cubit, Provider, and GetX**.  
+
+- ☁️ Skilled in **Firebase integration** including Authentication, Firestore, Storage, and Cloud Messaging.  
+
+- ⚡ Passionate about **performance optimization, clean code, and high-quality UX**.
 ---
 
 ## 🛠 Tech Stack  

@@ -8,12 +8,11 @@
 
 ## 🚀 About Me  
 
-📱 Flutter Developer متخصص في بناء تطبيقات موبايل احترافية وقابلة للتوسع  
-🏗 أطبق Clean Architecture و MVVM في المشاريع الإنتاجية  
-🔥 خبرة قوية في إدارة الحالة باستخدام BloC, Cubit, Provider, GetX  
-☁️ خبرة متقدمة في تكامل Firebase (Auth, Firestore, Storage, Notifications)  
-⚡ أهتم بالأداء، تنظيم الكود، وتجربة المستخدم  
-
+Flutter Developer specialized in building scalable and production-ready mobile applications.  
+Strong experience with Clean Architecture and MVVM.  
+Skilled in state management using BLoC, Cubit, Provider, and GetX.  
+Experienced in Firebase integration (Authentication, Firestore, Storage, Cloud Messaging).  
+Focused on performance optimization, maintainable code, and delivering high-quality user experiences.
 ---
 
 ## 🛠 Tech Stack  

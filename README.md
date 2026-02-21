@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aleen42/Personal-README-templates/master/images/animated_flutter.gif" alt="Flutter Animated Badge" width="150"/>
+  <img src="https://media.giphy.com/media/L0V8WyEqDw2q2/giphy.gif" alt="Flutter Animated Badge" width="150"/>
 </p>
 
 ---

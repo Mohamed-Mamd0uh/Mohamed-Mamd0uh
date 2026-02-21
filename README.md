@@ -1,22 +1,23 @@
 # 👋 Hi, I'm Mohamed Mamdouh  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Mobile+Applications+Expert;Clean+Architecture+&+Firebase;Building+Scalable+Apps🚀&center=true&width=650&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Mobile+Apps+Expert;Clean+Architecture+&+Firebase;Building+Scalable+Apps🚀&center=true&width=650&height=50">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aleen42/Personal-README-templates/master/images/animated_flutter.gif" alt="Flutter Animated Badge" width="150"/>
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-- 📱 Flutter Developer focused on building **scalable, maintainable, and production-ready** mobile applications.  
+- Flutter Developer focused on **scalable & maintainable mobile apps**  
+- Experienced in **Clean Architecture & MVVM**  
+- Strong in **state management**: BLoC, Cubit, Provider, GetX  
+- Skilled in **Firebase integration**: Auth, Firestore, Storage, Cloud Messaging  
+- Passionate about **clean code, performance & user experience**
 
-- 🏗️ Experienced in implementing **Clean Architecture** and **MVVM** for structured and testable codebases.  
-
-- 🧠 Strong in state management using **BLoC, Cubit, Provider, and GetX**.  
-
-- ☁️ Skilled in **Firebase integration** including Authentication, Firestore, Storage, and Cloud Messaging.  
-
-- ⚡ Passionate about **performance optimization, clean code, and high-quality UX**.
 ---
 
 ## 🛠 Tech Stack  
@@ -38,7 +39,7 @@
 
 ### ☁️ Backend & Database  
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=white)
-![Cloud Firestore](https://img.shields.io/badge/Firestore-000?style=for-the-badge&logo=firebase&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-000?style=for-the-badge&logo=firebase&logoColor=white)
 ![Firebase Auth](https://img.shields.io/badge/Auth-000?style=for-the-badge&logo=firebase&logoColor=white)
 ![Firebase Storage](https://img.shields.io/badge/Storage-000?style=for-the-badge&logo=firebase&logoColor=white)
 ![FCM](https://img.shields.io/badge/Cloud_Messaging-000?style=for-the-badge&logo=firebase&logoColor=white)
@@ -73,14 +74,14 @@
 - 📱 Building **scalable Flutter applications**  
 - ☁️ Advanced **Firebase integration**  
 - 🏗 Implementing **Clean Architecture** in production apps  
-- 🚀 **Performance optimization** & best practices  
+- 🚀 **Performance optimization & best practices**
 
 ---
 
 ## 🌍 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mamdouh-dev/?trk=opento_sprofile_pfeditor)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedmamdouh.912@gmail.com)
 
 ---
 
